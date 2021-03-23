@@ -1,0 +1,6 @@
+.passage-wrapper {
+    margin: 2rem auto;
+    /* height: 600px;
+    overflow-y: scroll; */
+    max-width: 600px;
+}
